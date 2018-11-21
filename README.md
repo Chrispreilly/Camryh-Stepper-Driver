@@ -5,7 +5,7 @@
  * It continues to update at 200hz as both current angle and desired angle changes.
  * Also takes advantage of the enable pin on the A4988 to disable the stepper when not engaged.
  
- ToDo:
+ ToDo:  
  -Update README with more details  
  -Improve comments in Arduino code  
  -Draw circuit details  
