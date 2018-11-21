@@ -6,9 +6,9 @@
  * Also takes advantage of the enable pin on the A4988 to disable the stepper when not engaged.
  
  ToDo:
- -Update README with more details
- -Improve comments in Arduino code
- -Draw circuit details
- -Make OLDCAR Panda
+ -Update README with more details  
+ -Improve comments in Arduino code  
+ -Draw circuit details  
+ -Make OLDCAR Panda  
  
  
